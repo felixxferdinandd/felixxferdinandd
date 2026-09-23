@@ -208,15 +208,17 @@ Utilizes multi-layered distributed locks, Redis queue buffering, and real-time d
 
 ---
 
+---
+
 ## 09. GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=felixxferdinandd&show_icons=true&theme=tokyonight&bg_color=0b0f19&title_color=a78bfa&text_color=c7d2fe&icon_color=818cf8&border_color=3b1d6e&hide_border=false" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=felixxferdinandd&theme=tokyonight&background=0b0f19&ring=818cf8&fire=a78bfa&currStreakLabel=a78bfa&currStreakNum=ffffff&sideLabels=c7d2fe&sideNums=ffffff&border=3b1d6e" width="48%" alt="Streak Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=felixxferdinandd&show_icons=true&theme=tokyonight&bg_color=0b0f19&title_color=a78bfa&text_color=c7d2fe&icon_color=818cf8&border_color=3b1d6e&hide_border=false" width="48%" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=felixxferdinandd&theme=tokyonight&background=0b0f19&ring=818cf8&fire=a78bfa&currStreakLabel=a78bfa&currStreakNum=ffffff&sideLabels=c7d2fe&sideNums=ffffff&border=3b1d6e" width="48%" alt="Streak Stats" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixxferdinandd&layout=compact&theme=tokyonight&bg_color=0b0f19&title_color=a78bfa&text_color=c7d2fe&border_color=3b1d6e&hide_border=false" width="55%" alt="Top Languages" />
+<div align="center" style="margin-top: 15px;">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=felixxferdinandd&layout=compact&theme=tokyonight&bg_color=0b0f19&title_color=a78bfa&text_color=c7d2fe&border_color=3b1d6e&hide_border=false" width="55%" alt="Top Languages" />
 </div>
 
 ---
@@ -224,7 +226,7 @@ Utilizes multi-layered distributed locks, Redis queue buffering, and real-time d
 ## 10. GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=felixxferdinandd&theme=tokyonight&no-bg=false&margin-w=15&margin-h=15&column=7&row=1" width="100%" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=felixxferdinandd&theme=dracula&no-bg=false&margin-w=10&margin-h=10&column=7&row=1" width="100%" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -240,9 +242,8 @@ Utilizes multi-layered distributed locks, Redis queue buffering, and real-time d
 ## 12. Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/felixxferdinandd/felixxferdinandd/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/felixxferdinandd/felixxferdinandd/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation" onerror="this.src='https://raw.githubusercontent.com/Platane/snk/master/assets/output/github-contribution-grid-snake.svg'" />
 </div>
-
 ---
 
 ## 13. Current Focus
