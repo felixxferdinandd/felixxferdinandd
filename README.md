@@ -186,21 +186,71 @@ Menggunakan pendekatan hybrid di mana status lock sementara disimpan pada in-mem
 
 ---
 
+---
+
 ## 09. Active Systems Telemetry
 
-```yaml
-engineering_telemetry:
-  active_research:
-    - topic: "eBPF (Extended Berkeley Packet Filter)"
-      objective: "Tracing system calls with zero context switch overhead"
-    - topic: "Distributed Consensus Paradigms"
-      objective: "Evaluating Raft vs. Paxos under asymmetric network partitions"
-  active_development:
-    - project: "ForgeOTA Core v2"
-      target: "Direct-to-edge worker pipelines with zero-trust storage keys"
-    - project: "Real-Time Message Ledger"
-      target: "Sub-millisecond transactional queue based on memory-mapped files"
-  engineering_standards:
-    - "Strict encapsulation: state mutations must always be explicitly auditable"
-    - "Determinism: release builds must compile bit-for-bit identical across hosts"
-felixxferdinandd :: systems-engineer --location "Yogyakarta, ID" --status "Open for Collaboration"
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔬 Active Research</h3>
+      <ul>
+        <li>
+          <b>eBPF Kernel Instrumentation</b><br />
+          Tracing syscalls dan analisis latency subsistem Linux dengan zero context switch overhead.
+        </li>
+        <br />
+        <li>
+          <b>Distributed Consensus Models</b><br />
+          Evaluasi konsistensi data Raft vs. Paxos pada skenario asymmetric network partitions.
+        </li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ Active Development</h3>
+      <ul>
+        <li>
+          <b>ForgeOTA Core v2</b><br />
+          Edge worker deployment pipeline dengan validasi otomatis signature SHA-256.
+        </li>
+        <br />
+        <li>
+          <b>Real-Time Message Ledger</b><br />
+          Sub-millisecond transactional queue berbasis memory-mapped files.
+        </li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <b>Engineering Standards:</b><br />
+      <code>Deterministic Builds</code> • <code>Zero-Trust Architecture</code> • <code>Explicit State Auditing</code> • <code>High Concurrency</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 10. Professional Collaboration
+
+<div align="center">
+
+  [![Status](https://img.shields.io/badge/STATUS-OPEN_FOR_COLLABORATION-7c3aed?style=for-the-badge)](https://github.com/felixxferdinandd)
+  [![Role](https://img.shields.io/badge/FOCUS-SYSTEMS_%26_BACKEND-4338ca?style=for-the-badge)](https://github.com/felixxferdinandd)
+  [![Location](https://img.shields.io/badge/LOCATION-YOGYAKARTA%2C_ID-1e1b4b?style=for-the-badge)](https://github.com/felixxferdinandd)
+
+  <br /><br />
+
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/felixxferdinandd)
+  [![Email](https://img.shields.io/badge/Direct_Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:contact@felixferdinand.dev)
+  [![GitHub](https://img.shields.io/badge/GitHub_Profile-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/felixxferdinandd)
+
+  <br />
+
+  > *"Simplicity is prerequisite for reliability; elegance is the consequence of disciplined systems engineering."*
+
+  <br />
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:1e1035,25:5b21b6,50:3b1d6e,75:1e1035,100:0b0f19&height=120&section=footer" width="100%" alt="Footer Banner" />
+
+</div>
